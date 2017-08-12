@@ -1,0 +1,4 @@
+<meta>
+  <info name="Weather" description="Adds command to set weather" />
+  <script src="weather.cs" type="server" lang="csharp" />
+</meta>
